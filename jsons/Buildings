@@ -1,8 +1,8 @@
 {
-  "name": "Mosque",
+  "name": "Small Mosque",
   "uniqueTo": "Arabia",
   "replaces": "Shrine",
-  "faith": 5,
+  "faith": 4,
   "culture": 1,
   "happiness": 1,
   "cost": 0,
@@ -13,7 +13,7 @@
   "name": "Big Mosque",
   "uniqueTo": "Arabia",
   "replaces": "Temple",
-  "faith": 4,
+  "faith": 8,
   "culture": 2,
   "happiness": 1,
   "cost": 120,
@@ -24,10 +24,9 @@
   "uniqueTo": "Arabia",
   "replaces": "Grand Temple",
   "isNationalWonder": true,
-  "faith": 8,
+  "faith": 16,
   "culture": 4,
   "happiness": 2,
   "cost": 300,
-  "requiredBuilding": "Big Mosque",
   "portrait": "Mosque.png"
 }
