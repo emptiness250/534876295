@@ -2,7 +2,7 @@
   "name": "Mosque",
   "uniqueTo": "Arabia",
   "replaces": "Shrine",
-  "faith": 2,
+  "faith": 5,
   "culture": 1,
   "happiness": 1,
   "cost": 0,
@@ -28,6 +28,6 @@
   "culture": 4,
   "happiness": 2,
   "cost": 300,
-  "requiredBuilding": "Jami Mosque",
+  "requiredBuilding": "Big Mosque",
   "portrait": "Mosque.png"
 }
