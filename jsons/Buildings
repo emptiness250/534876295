@@ -18,15 +18,4 @@
   "happiness": 1,
   "cost": 120,
   "portrait": "Mosque.png"
-},
-{
-  "name": "Dar al-Ifta",
-  "uniqueTo": "Arabia",
-  "replaces": "Grand Temple",
-  "isNationalWonder": true,
-  "faith": 16,
-  "culture": 4,
-  "happiness": 2,
-  "cost": 300,
-  "portrait": "Mosque.png"
 }
