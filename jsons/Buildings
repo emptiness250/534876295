@@ -1,0 +1,33 @@
+{
+  "name": "Mosque",
+  "uniqueTo": "Arabia",
+  "replaces": "Shrine",
+  "faith": 2,
+  "culture": 1,
+  "happiness": 1,
+  "cost": 0,
+  "isFreeBuilding": true,
+  "portrait": "Mosque.png"
+},
+{
+  "name": "Big Mosque",
+  "uniqueTo": "Arabia",
+  "replaces": "Temple",
+  "faith": 4,
+  "culture": 2,
+  "happiness": 1,
+  "cost": 120,
+  "portrait": "Mosque.png"
+},
+{
+  "name": "Dar al-Ifta",
+  "uniqueTo": "Arabia",
+  "replaces": "Grand Temple",
+  "isNationalWonder": true,
+  "faith": 8,
+  "culture": 4,
+  "happiness": 2,
+  "cost": 300,
+  "requiredBuilding": "Jami Mosque",
+  "portrait": "Mosque.png"
+}
